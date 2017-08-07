@@ -1,0 +1,95 @@
+SLACK 2.1 - Intro
+Hey friends!, Chris from Codify Academy here.
+
+In this video we are going to show you how to use the Slack
+
+We have about 400+ people on the team now, so please remember to always be positive!
+
+
+SLACK 2.2 - Prework Channel
+Lets begin by looking at a few helpful channels.
+
+First up the prework,
+
+on the left under channels youll see prework
+left click to display the channel.
+
+Here you can ask any questions on prework before class starts.
+
+
+
+SLACK 2.3 - 1on1mentoring Channel
+Next is 1on1 mentoring,
+this is where you go when one want help.
+
+Anytime you feel behind,
+need clarification on a concept
+or you just need someone to talk with? reach out here.
+
+
+We also have open office hours, so you come in and work with mentors, students or alone.
+
+Since we live in the age of technology,
+we can also screen share to solve problems from anywhere!
+
+If you want to speak with a specific mentor,
+please send a direct message to them, more on DMS.
+
+
+
+SLACK 2.4 - General Channel
+Next is the general channel,
+this is an open channel, which means you can post anything here
+
+
+
+
+SLACK 2.5 - HTML-CSS Channel
+Once you class starts the HTML & CSS channel should be on of your highly used channels, Anything HTML & CSS can end up here, feel free to posts technical questions you have, any code you might get stuck on or anything awesome you find related to HTML & CSS here.
+
+
+
+SLACK 2.6 - Lobby Lounge Channel
+The Lobby lounge channel is where you should post when you arrive @ 535 mission, you can simply post "here" in this channel, and someone from the Codify Academy team will be on there way down to get you.
+
+You should have downloaded slack on your phone with the previous video, keep in mind it's going to be faster to post from your phone to the lobbyloungin channel, then sitting down and pulling out your laptop and post from there, 535 mission does have free wifi in the lobby.
+
+
+
+SLACK 2.7 - JavaScript and Jobsprogram Channel
+Next we have the JavaScript and Jobsprogram Channel, Ignore these two channels for now, as you will start these later.
+
+
+
+SLACK 2.8 - Direct Messages
+Finally direct message, you can DM anyone by clicking on the plus and searching for their names, once you select them you can add your message and send it off.
+
+
+
+SLACK 2.9 - Slackbot Messages
+You may occasionally see this message from the slack bot, just ignore it, if you were loading any documents they have been uploaded and are visible to those you shared it with.
+
+
+
+SLACK 2.10 - Posting Code
+The last thing we will talk about is posting code.
+One of the biggest benefits to slack is the ability to upload code for others to check out.
+Once you have the correct channel or people to send your code to, click the + button and paste your code in and press enter to send.
+
+
+
+SLACK 2.11 - Final Tricks
+shift+enter - creates a new line a post instead of just submitting
+editing posts
+deleting posts
+
+
+
+SLACK 2.12 - Class Channel
+Once your class starts you will be invited to join a class specific channel, here you'll be able to post anything related to class.
+
+This will be a great place to communicate with your class out side of the meetings.
+
+
+
+Thats all for now, next we'll show you how to
